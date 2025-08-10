@@ -1,0 +1,30 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Pp]ackages/com.unity.package-manager-ui/
+UserSettings/
+
+# Ignore Unity crash reports
+*.stacktrace
+
+# Ignore build artifacts
+*.apk
+*.aab
+*.exe
+*.app
+*.xcodeproj
+*.xcworkspace
+
+# VS / JetBrains Rider
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
